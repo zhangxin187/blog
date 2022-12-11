@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as n}from"./app.e3fac29c.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),o={name:"index.md"},s=n("p",null,"\u4E2A\u4EBA\u7B14\u8BB0\u603B\u7ED3",-1),r=[s];function c(d,_,i,p,l,m){return a(),t("div",null,r)}const x=e(o,[["render",c]]);export{u as __pageData,x as default};
